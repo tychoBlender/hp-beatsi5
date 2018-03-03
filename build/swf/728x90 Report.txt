@@ -1,0 +1,66 @@
+728x90.swf Movie Report
+------------------------
+
+Metadata
+--------
+Bytes    Value
+-----    -----
+ 1290    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash CS4 Professional</xmp:CreatorTool> <xmp:CreateDate>2011-07-28T17:56:30-07:00</xmp:CreateDate> <xmp:MetadataDate>2011-08-11T14:34:14-07:00</xmp:MetadataDate> <xmp:ModifyDate>2011-08-11T14:34:14-07:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:2015D74743206811871FAB83157B4709</stRef:instanceID> <stRef:documentID>xmp.did:2015D74743206811871FAB83157B4709</stRef:documentID> <stRef:originalDocumentID>xmp.did:B2E3A89923206811871FAB83157B4709</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:D65D2B841E20681192B0A0A1632A7751</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:D65D2B841E20681192B0A0A1632A7751</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:B2E3A89923206811871FAB83157B4709</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    ----------------
+      1          71690          71690    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene                        Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+Scene 1                                0             0                 31918
+
+Symbol                       Shape Bytes    Text Bytes    ActionScript Bytes
+-------------------------    -----------    ----------    ------------------
+LaptopArt                              0             0                     0
+Crowd                                  0             0                     0
+concert                                0             0                     0
+Symbol 22                              0             0                     0
+hearLine                               0            66                     0
+beatsLine                              0            95                     0
+learnLine                              0           211                     0
+r                                      0             0                     0
+tm                                     0             0                     0
+everyBody                              0             0                     0
+likeNever                              0            64                     0
+rockBack                               0            70                     0
+beatsLogo                              0             0                     0
+computer                               0             0                     0
+tanBG                                 70             0                     0
+LightPool                            100             0                     0
+SpotLights                           104             0                     0
+StageLight                            90             0                     0
+Laptop                                 0             0                     0
+flash_glow                            71             0                     0
+flash_flare                           91             0                     0
+cameraFlash                            0             0                     0
+Hit                                   37             0                     0
+CTA_Arrow_Single                      40             0                     0
+CTA_Arrow                              0             0                     0
+CTA                                    0            53                     0
+intelLogo                              0             0                     0
+
+Font Name                 Bytes        Characters    
+----------------------    ---------    --------------
+HPFuturaBook                   3468     .5ABCHILMPRabcdefhiklmnoprstuvwy®™
+
+ActionScript Bytes    Location
+------------------    --------
+             31918    Scene 1:Frame 1
+
+Bitmap                     Compressed    Compression
+-----------------------    ----------  --------  -----------
+laptop.png                      4323       38048   JPEG Quality=80
+crowd.png                       9428      252980   JPEG Quality=53
+everyBody                       3412       19536   JPEG Quality=85
+beatsLogo.png                   2782       46000   Lossless
+intelLogo                       4039       19200   JPEG Quality=90
+
+
+
+
